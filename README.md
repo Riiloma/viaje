@@ -1,5 +1,3 @@
-# viaje
-
 # ->TRABAJO DEL MODULO GITHUB<-
 
 # -Versiones utilizadas de complementos-
@@ -37,8 +35,12 @@ información asociada.
 
 # Componentes utilizados
 
--> Carousel
--> Font Awesome
--> Google Fonts
--> Cards
--> Form
+-> Carousel.
+
+-> Font Awesome.
+
+-> Google Fonts.
+
+-> Cards.
+
+-> Form.
