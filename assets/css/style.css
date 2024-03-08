@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.logo{
+    width: 10%;
+    height:10%;
+}
+
+.iconos{
+    width: 100%;
+    background: #00ddff;
+}
+.iconos i{
+    font-size: 2rem;
+    color: #ffffff;
+}
+.informacion{
+    color: #ffffff;
+    background-color: #000;
+}
+.card img{
+    width: 100%;
+    height: 295.86px;
+}
+footer{
+    
+    background: #00ddff;
+    color: #ffffff;
+}
+footer i{
+    font-size: 2rem;
+}
