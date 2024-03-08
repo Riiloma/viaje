@@ -1,34 +1,53 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
 
-.logo{
-    width: 10%;
-    height:10%;
+h2,p {
+    font-family: "Raleway", sans-serif;
 }
 
-.iconos{
+.nav-link, .navbar-brand{
+    font-family: "Raleway", sans-serif;
+}
+
+.logo {
+    width: 10%;
+    height: 10%;
+}
+
+.iconos {
     width: 100%;
     background: #00ddff;
 }
-.iconos i{
+
+.iconos i {
     font-size: 2rem;
     color: #ffffff;
 }
-.informacion{
+
+.informacion {
     color: #ffffff;
     background-color: #000;
 }
-.card img{
+
+.card img {
     width: 100%;
     height: 295.86px;
 }
-footer{
-    
+
+.btn-secondary{
     background: #00ddff;
     color: #ffffff;
 }
-footer i{
+
+footer {
+    background: #00ddff;
+    color: #ffffff;
+}
+
+.fab {
     font-size: 2rem;
+    text-decoration: none;
+    color: #ffffff;
 }
